@@ -26,4 +26,4 @@ After processing the arguments passed by the user, the program calculates the la
 
 # Important
 
-At the moment, the program supports only Russian, but others will be added later.
+At the moment, the program supports only Russian language, but others will be added later.
