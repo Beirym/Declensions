@@ -5,7 +5,7 @@ Documentation on working with the module - declensions.
 # Import
 
 ```python
-from declensions import decline
+from declensions.declensions import decline
 ```
 
 # Word transmission example
